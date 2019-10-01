@@ -1,0 +1,11 @@
+ mat-toolbar {
+    
+    color: #000 !important;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
